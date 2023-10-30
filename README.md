@@ -1,11 +1,8 @@
 # BubbleKeyframe
+BubbleKeyframe is a project that displays a dynamic bubble animation on a web page. These bubbles float in the background and create an attractive visual effect.
 
 ## Video Preview InteractiveButtons
 ![Video](./preview.gif)
-
-## Description
-
-BubbleKeyframe is a project that displays a dynamic bubble animation on a web page. These bubbles float in the background and create an attractive visual effect.
 
 ## How It Works
 
