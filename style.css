@@ -2,6 +2,8 @@
 margin: 0;
 padding: 0;
 box-sizing: border-box;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+font-style: normal;
 }
 
 body {
@@ -14,8 +16,12 @@ overflow: hidden;
 }
 
 .background {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
 position: relative;
-width: 100%;
+width: 100wh;
 height: 100vh;
 }
 
@@ -46,4 +52,23 @@ box-shadow: 0 0 0 10px rgba(164, 79, 220, 0.3137254902), 0 0 50px #ff2d75, 0 0 1
 100% {
     transform: translateY(-10vh) scale(0.7);
 }
+}
+
+
+footer {
+text-align: center;
+margin: 0.5rem 0rem;
+}
+
+footer p {
+color: #fff;
+font-size: 1em;
+}
+
+footer p a {
+color: #ff334c;
+}
+
+footer p a:hover {
+opacity: 0.5;
 }
