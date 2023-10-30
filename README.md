@@ -1,6 +1,7 @@
 # BubbleKeyframe
 
-![screenshot](screenshot.png)
+## Video Preview InteractiveButtons
+![Video](./preview.gif)
 
 ## Description
 
